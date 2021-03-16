@@ -20,8 +20,9 @@
             sampler2D _Mask;
             half _Glossiness;
             half _Metallic;
-            fixed4 _Color;
             half _Dissolve;
+            fixed4 _Color;
+
 
             struct Input
             {

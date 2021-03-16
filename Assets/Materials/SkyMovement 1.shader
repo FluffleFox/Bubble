@@ -38,11 +38,10 @@
             }
 
             sampler2D _MainTex;
-            float4 _Offset;
 
             fixed4 frag(v2f i) : SV_Target
             {
-                fixed4 col = tex2D(_MainTex, i.uv + _Offset.xy);
+                fixed4 col = tex2D(_MainTex, i.uv);
                 col.rgb = col.rgb;
                 return col;
             }
