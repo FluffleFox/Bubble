@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Bubble smasher
-  smallDescriptionWhenLocked: SMASH THEM ALL
-  smallDescriptionWhenUnlocked: Good job
-  fullDescriptionWhenLocked: Yeah! Smash 5000 bubbles
-  fullDescriptionWhenUnlocked: Oh you do it...
+  tittle: Natonial Minister of Bubbles
+  smallDescriptionWhenLocked: Let's pop some more eh?
+  smallDescriptionWhenUnlocked: YES, POP MORE
+  fullDescriptionWhenLocked: Pop 5000 bubbles
+  fullDescriptionWhenUnlocked: Complete
   requiere: 0
   stepValue: 5000

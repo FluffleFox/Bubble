@@ -14,11 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Some bubbles
-  smallDescriptionWhenLocked: More bubbles you poke...
-  smallDescriptionWhenUnlocked: More bubbles you get.
-  fullDescriptionWhenLocked: Tap 500 bubbles
-  fullDescriptionWhenUnlocked: More achievement = more bubbles \n More bubbles =
-    More fun ;)
+  tittle: Serious Popper
+  smallDescriptionWhenLocked: The more you poke...
+  smallDescriptionWhenUnlocked: The more you get!
+  fullDescriptionWhenLocked: Pop 500 bubbles
+  fullDescriptionWhenUnlocked: Complete
   requiere: 0
   stepValue: 500

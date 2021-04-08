@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Bubble toucher
-  smallDescriptionWhenLocked: A lot of bubble to touch
-  smallDescriptionWhenUnlocked: 10000 bubbles already touched.
-  fullDescriptionWhenLocked: Really a lot of bubbles
-  fullDescriptionWhenUnlocked: Wow. You do it ^^
+  tittle: King of Bubble Kingdom
+  smallDescriptionWhenLocked: MORE!
+  smallDescriptionWhenUnlocked: That's a lot of bubbles to pop
+  fullDescriptionWhenLocked: Pop 10000 bubbles
+  fullDescriptionWhenUnlocked: Complete
   requiere: 0
   stepValue: 10000

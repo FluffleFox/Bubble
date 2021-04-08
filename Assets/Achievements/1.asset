@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Just begin
-  smallDescriptionWhenLocked: Go touch some bubbles ;)
-  smallDescriptionWhenUnlocked: First 10 poked
-  fullDescriptionWhenLocked: Tap total 10 bubbles to unlock
+  tittle: The Beginning
+  smallDescriptionWhenLocked: Pop some bubbles!
+  smallDescriptionWhenUnlocked: Milions more await!
+  fullDescriptionWhenLocked: Pop 10 bubbles
   fullDescriptionWhenUnlocked: Complete
   requiere: 0
   stepValue: 10

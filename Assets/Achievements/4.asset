@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Almost milestone
-  smallDescriptionWhenLocked: Tap some bubbles
-  smallDescriptionWhenUnlocked: First 1000 bubbles.
-  fullDescriptionWhenLocked: There is a lot of bubbles in the air. Tap some of them.
-  fullDescriptionWhenUnlocked: You got it. First 1000 bubbles.
+  tittle: Bubble Burster
+  smallDescriptionWhenLocked: Pop MORE!
+  smallDescriptionWhenUnlocked: Quite relaxing isn't it?
+  fullDescriptionWhenLocked: Pop 1000 bubbles
+  fullDescriptionWhenUnlocked: Complete
   requiere: 0
   stepValue: 1000
