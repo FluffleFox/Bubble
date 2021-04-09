@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: 10 bps
-  smallDescriptionWhenLocked: 10 bubbles per second
-  smallDescriptionWhenUnlocked: WEEE! Faster!
-  fullDescriptionWhenLocked: More bubbles on screen = More possible bubbles to tap
-  fullDescriptionWhenUnlocked: Great speed ;)
+  tittle: Fast fingers
+  smallDescriptionWhenLocked: Pop 10  bubbles in span of 1 second
+  smallDescriptionWhenUnlocked: Your fingers okay? If yes let's try even faster!
+  fullDescriptionWhenLocked: Pop 10  bubbles in span of 1 second
+  fullDescriptionWhenUnlocked: Complete
   requiere: 4
   stepValue: 10

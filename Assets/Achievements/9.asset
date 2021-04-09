@@ -15,9 +15,9 @@ MonoBehaviour:
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
   tittle: MILLION!
-  smallDescriptionWhenLocked: Yes. 1 Million bubbles.
-  smallDescriptionWhenUnlocked: Congratulation. I thing you complete this game
-  fullDescriptionWhenLocked: Go to Million!
-  fullDescriptionWhenUnlocked: Contratulation once again ^^
+  smallDescriptionWhenLocked: Pop a tremendous amount of bubbles
+  smallDescriptionWhenUnlocked: Now we are talking!
+  fullDescriptionWhenLocked: Pop 1 million of  bubbles!
+  fullDescriptionWhenUnlocked: Complete
   requiere: 0
   stepValue: 1000000

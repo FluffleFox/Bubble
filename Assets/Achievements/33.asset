@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Ultimate sniper
-  smallDescriptionWhenLocked: Tap bubble from very far away
-  smallDescriptionWhenUnlocked: Can you even seen that one?! wow
-  fullDescriptionWhenLocked: 'Tip: ... you already know this tip. '
-  fullDescriptionWhenUnlocked: What can you spot this one?!
+  tittle: Professional bubble sniper
+  smallDescriptionWhenLocked: Snipe a very smol boi!
+  smallDescriptionWhenUnlocked: You are a really good sniper you know?
+  fullDescriptionWhenLocked: Pop smallest possible bubble
+  fullDescriptionWhenUnlocked: YOU DID IT! GRATZ!
   requiere: 1
   stepValue: 150

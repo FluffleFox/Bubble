@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Silce master master
-  smallDescriptionWhenLocked: 15 bubbles by one silce. Good luck
-  smallDescriptionWhenUnlocked: Now you are silce master master.
-  fullDescriptionWhenLocked: It's really hard to do
-  fullDescriptionWhenUnlocked: But not for you Master Master
+  tittle: Seventh dan master
+  smallDescriptionWhenLocked: Only true masters can achive serenity
+  smallDescriptionWhenUnlocked: You have achived peak of slicing.
+  fullDescriptionWhenLocked: Slice 15 buubles with 1 swipe
+  fullDescriptionWhenUnlocked: Champion
   requiere: 3
   stepValue: 15

@@ -14,11 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: First silce
-  smallDescriptionWhenLocked: Three bubbles in one silce
-  smallDescriptionWhenUnlocked: Now you know how to silce
-  fullDescriptionWhenLocked: Three bubbles in one silce... because only tapping is
-    boring
-  fullDescriptionWhenUnlocked: So many ways to break bubbles
+  tittle: Three bubbles in one swoop!
+  smallDescriptionWhenLocked: Try sliding insetad of tapping
+  smallDescriptionWhenUnlocked: Let's try harder combos
+  fullDescriptionWhenLocked: Slice 3 bubbles in one slice
+  fullDescriptionWhenUnlocked: So many diffrent ways to break bubbles
   requiere: 3
   stepValue: 3
