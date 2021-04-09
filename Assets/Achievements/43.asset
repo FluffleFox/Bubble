@@ -14,10 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: 15 bps
-  smallDescriptionWhenLocked: 15 bubbles per second
-  smallDescriptionWhenUnlocked: Serious speed
-  fullDescriptionWhenLocked: Wait a while... then TAP THEM ALL!
-  fullDescriptionWhenUnlocked: Great job. Seroius speed.
+  tittle: 15 Bubbles Per Second
+  smallDescriptionWhenLocked: Pop 15 bubbles in span of 1 second
+  smallDescriptionWhenUnlocked: Lighting fast! Let your fingers rest before ultimate
+    challenge!
+  fullDescriptionWhenLocked: TAP THEM ALL
+  fullDescriptionWhenUnlocked: Complete
   requiere: 4
   stepValue: 15

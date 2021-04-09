@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Bubble kiss
-  smallDescriptionWhenLocked: Even closer than hug
-  smallDescriptionWhenUnlocked: Awww. Sweet :3
-  fullDescriptionWhenLocked: Really close range
-  fullDescriptionWhenUnlocked: 'Awww :3 That was Sweet :3 '
+  tittle: So close! Watch your eyes!
+  smallDescriptionWhenLocked: Too close! Too close!
+  smallDescriptionWhenUnlocked: Now it's in your eyes...
+  fullDescriptionWhenLocked: Pop a really really close bubble
+  fullDescriptionWhenUnlocked: Complete
   requiere: 2
   stepValue: 0.5

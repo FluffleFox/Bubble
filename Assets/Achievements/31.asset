@@ -14,11 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Far away
-  smallDescriptionWhenLocked: Tap a distant bubble
-  smallDescriptionWhenUnlocked: Nice shot
-  fullDescriptionWhenLocked: 'Tip: requiere bubble size is show in this achievement
-    icon. '
-  fullDescriptionWhenUnlocked: Nice shot
+  tittle: In a far away land...
+  smallDescriptionWhenLocked: Tap a very distant bubble
+  smallDescriptionWhenUnlocked: Nice job!
+  fullDescriptionWhenLocked: 'Tip: Bubble size is show in this achievement icon. '
+  fullDescriptionWhenUnlocked: Complete
   requiere: 1
   stepValue: 50

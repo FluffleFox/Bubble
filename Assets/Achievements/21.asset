@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Big one
-  smallDescriptionWhenLocked: Tap bubble in close range
-  smallDescriptionWhenUnlocked: You see? That one like you :3
-  fullDescriptionWhenLocked: Poke bubble when it fly to you
+  tittle: Big score
+  smallDescriptionWhenLocked: It's big isn't it?
+  smallDescriptionWhenUnlocked: You did it!
+  fullDescriptionWhenLocked: Pop a really large bubble
   fullDescriptionWhenUnlocked: Now you know what is close range ;)
   requiere: 2
   stepValue: 2

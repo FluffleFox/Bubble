@@ -15,10 +15,9 @@ MonoBehaviour:
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
   tittle: Five at once
-  smallDescriptionWhenLocked: 5 bubbles by one move
-  smallDescriptionWhenUnlocked: Progress
-  fullDescriptionWhenLocked: More bubble on screen = More possible achievements
-  fullDescriptionWhenUnlocked: 'Once again: \n More bubble on screen = More possible
-    achievements'
+  smallDescriptionWhenLocked: Next level of slicing
+  smallDescriptionWhenUnlocked: Maybe try even more?
+  fullDescriptionWhenLocked: Slice 5 bubbles in one swoop
+  fullDescriptionWhenUnlocked: Complete
   requiere: 3
   stepValue: 5

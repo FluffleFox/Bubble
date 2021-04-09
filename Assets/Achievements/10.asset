@@ -16,10 +16,9 @@ MonoBehaviour:
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
   tittle: IT'S TIME TO STOP!
   smallDescriptionWhenLocked: Really this one is just imposible. More in details
-  smallDescriptionWhenUnlocked: I know you are hacker... but still have fun ;)
+  smallDescriptionWhenUnlocked: You got to be hacking!
   fullDescriptionWhenLocked: 4,294,967,295 for this one... posibble to do in about
     17 years play non stop... yea this one is just joke ;)
-  fullDescriptionWhenUnlocked: Welp my dear hacker you do it... but really? I literally
-    said this one is joke.
+  fullDescriptionWhenUnlocked: 'Well my dear hacker you did it... '
   requiere: 0
   stepValue: 4.2949673e+9

@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: Silce overmastered
-  smallDescriptionWhenLocked: Better even than master
-  smallDescriptionWhenUnlocked: Wow you overmastered it!
-  fullDescriptionWhenLocked: Patience and precise...
-  fullDescriptionWhenUnlocked: Well done.
+  tittle: Swipe Sensei
+  smallDescriptionWhenLocked: Teach them the right technique of slicing
+  smallDescriptionWhenUnlocked: Honored teacher *bows*
+  fullDescriptionWhenLocked: Slice 12 bubbles at once
+  fullDescriptionWhenUnlocked: Complete
   requiere: 3
   stepValue: 12

@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lockedIcon: {fileID: 21300000, guid: dd818bf1ae047d247a68afb4fb965c16, type: 3}
   unlockedIcon: {fileID: 21300000, guid: b45990b8e1f74784e8b5f3c6b49ea197, type: 3}
-  tittle: 5 bps
-  smallDescriptionWhenLocked: 5 bubbles per second
-  smallDescriptionWhenUnlocked: We need go faster
-  fullDescriptionWhenLocked: All way allowed
-  fullDescriptionWhenUnlocked: Just begin
+  tittle: 5 Bubbles Per Second
+  smallDescriptionWhenLocked: Pop 5 bubbles in span of 1 second
+  smallDescriptionWhenUnlocked: We need to go faster!
+  fullDescriptionWhenLocked: Pop 5 bubbles in span of 1 second
+  fullDescriptionWhenUnlocked: Complete
   requiere: 4
   stepValue: 5
